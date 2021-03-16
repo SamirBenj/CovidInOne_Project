@@ -1,0 +1,17 @@
+[
+    {
+        "VaccinNom": "Vecteur Virale",
+        "Definitions": "Un virus inoffensif est utilisé pour transporter le matériel génétique du coronavirus, fabriquant la protéine qui enclenchera une réponse immunitaire. Si des doutes subsistent sur le taux d'efficacité du vaccin d'AstraZeneca, il présente l'avantage d'être conservé à la température d'un réfrigérateur, soit entre deux et huit degrés Celsius.",
+        "Efficacite": "60-70%"
+    },
+    {
+        "VaccinNom": "Vaccin à ARN messager",
+        "Definitions": "Cette technologie très récente utilise des fragments d'ARN du virus qui, une fois dans les cellules de l'organisme, vont leur faire fabriquer des protéines virales qui vont déclencher la réaction immunitaire.",
+        "Efficacite": "94.5%"
+    },
+    {
+        "VaccinNom": "Vaccins à virus inactivé",
+        "Definitions": "C'est la méthode la plus courante déjà utilisée pour la grippe, la rubéole ou la rougeole et développée contre le Covid-19 par les chinois Sinovac et Sinopharm. Ces vaccins reposent sur une injection du virus entier préalablement rendu inoffensif afin de déclencher une réponse immunitaire en cas d'infection.",
+        "Efficacite": "95%"
+    }
+]

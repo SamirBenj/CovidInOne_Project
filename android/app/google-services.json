@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "464225556714",
+    "project_id": "surveyapp-e0f85",
+    "storage_bucket": "surveyapp-e0f85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464225556714:android:05f1f7b6c839aed0b7df93",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464225556714-32ionbau9teggutnbil7ln4bdj20cp3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5BYVI9ZYrOdut13IxacZLTP_TqT3FWjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464225556714-32ionbau9teggutnbil7ln4bdj20cp3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

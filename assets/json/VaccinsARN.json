@@ -1,0 +1,18 @@
+[
+    {
+        "nom": "Moderna",
+        "Creer": "13 Janvier 2020",
+        "Injection": "2",
+        "Detail": "Un vaccin traditionnel consiste à préparer notre organisme à répondre à une maladie en utilisant notre système immunitaire. Le vaccin contient de petites quantités d'une bactérie ou d'un virus mort ou très affaibli mais jamais vivant.",
+        "Efficacite": "94%",
+        "source": "Wiki, ladepeche.fr"
+    },
+    {
+        "nom": "Pfizer-BioNTech",
+        "Creer": "9 novembre 2020",
+        "Injection": "2",
+        "Detail": "Ce vaccin utilise une approche expérimentale consistant à injecter une partie du code génétique du virus pour activer le système immunitaire",
+        "Efficacite": "90%",
+        "source": "Wiki"
+    }
+]
