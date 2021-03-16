@@ -1,10 +1,8 @@
-# flutter_application_1
+# CovidInOne
 
-A new Flutter project.
+My Flutter Project
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+No Copy/Paste
 
 A few resources to get you started if this is your first Flutter project:
 
