@@ -8,4 +8,4 @@ https://docs.google.com/presentation/d/1eOs85N56tBVzDh_uq-8rvNoap7g0WMRveq4dTV5C
 
 Demo: https://youtu.be/I-KP7sn7h7g
 Promo Demo: https://youtu.be/nW1WIk0ieNc
-<a src="https://giphy.com/gifs/eCji0ltsNl7evvZkIG"/>
+<a href="https://giphy.com/gifs/eCji0ltsNl7evvZkIG"/></a>
